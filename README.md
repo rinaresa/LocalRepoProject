@@ -1,0 +1,1 @@
+# GitHubCloneProject - Merge conflicts Practice
